@@ -7,8 +7,6 @@
 #include <linux/input.h>
 #include <time.h>
 
-#include "screenlocations.h"
-
 #define PEN_DEVICE      "/dev/input/event1"
 #define TOUCH_DEVICE    "/dev/input/event2"
 
